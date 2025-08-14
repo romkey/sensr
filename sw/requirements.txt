@@ -1,0 +1,7 @@
+adafruit-circuitpython-scd4x
+adafruit-circuitpython-bme680
+adafruit-circuitpython-tsl2591
+adafruit-circuitpython-pm25
+adafruit-circuitpython-lsm6ds
+adafruit-circuitpython-busdevice
+adafruit_LTR390
