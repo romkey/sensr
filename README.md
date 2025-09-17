@@ -5,7 +5,7 @@ Sensr is an ESP32 S3-based microcontroller intended for environmental sensing, a
 The base board includes:
 - ESP32-S3 with 8MB of PSRAM and 16MB of flash storage
 - USB C
-- accelerometer
+- LSM6DS3TR-C  accelerometer & gyroscope
 - I2S microphone
 - connector for PMS5003 particle sensor
 - 2 independent STEMMA QT/Qwiic connectors for external I2C boards
@@ -21,6 +21,10 @@ The Air sensor board includes:
 The Light sensor board includes:
 - TSL25911 light/lux/infrared sensor
 - AS7331 UVA/UVB/UVC sensor
+
+[Board version 0.2.0](docs/base-0.2.0.md) 
+
+[Board version 0.1.1](docs/base-0.1.1.md) 
 
 
 ## I2C Addresses
