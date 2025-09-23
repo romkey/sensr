@@ -1,5 +1,15 @@
 # Sensr
 
+Sensr is a group of hardware projects intended for environmental
+sensing.
+
+It currently consists of:
+- base board
+- air - SCD40 CO2 + BME680 temperature/humidity/pressure sensor
+- air-stcc4 - new STCC4 CO2 sensor + SHT40 temperature/humidity sensor
+- light - TSL25911 light
+- light-ltr390uv - LTR390 UV sensor + TSL25911 light sensor
+
 Sensr is an ESP32 S3-based microcontroller intended for environmental sensing, as well as separate sensor boards.
 
 The base board includes:
@@ -57,3 +67,12 @@ SCK - CS - 10
 SD - RESET - 9
 WS - DC - 46
 L/R - SDI (MOSI) - 16
+
+## License
+
+Hardware is shared under the [CERN-OHL-S-2.0](CERN_OHL_S_v2.txt) license.
+
+Software is shared under the [MIT license](MIT-LICENSE.txt).
+
+Documentation is shared under the [CC-BY-SA-4.0](CC-BY-SA-4.0.txt) - Attribution-ShareAlike license.
+
