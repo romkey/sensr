@@ -81,3 +81,7 @@ psram:
 
 If you want to use the Qwiic/STEMMA QT connectors, do not enable
 PSRAM.
+
+## License
+
+Please see the top level [README](../../README.md) for license information.

@@ -62,9 +62,4 @@ print("Test complete!")
 
 ## License
 
-Hardware is shared under the [CERN-OHL-S-2.0](CERN_OHL_S_v2.txt) license.
-
-Software is shared under the [MIT license](MIT-LICENSE.txt).
-
-Documentation is shared under the [CC-BY-SA-4.0](CC-BY-SA-4.0.txt) - Attribution-ShareAlike license.
-
+Please see the top level [README](../../README.md) for license information.

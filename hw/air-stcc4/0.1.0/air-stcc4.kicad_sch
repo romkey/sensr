@@ -10,6 +10,7 @@
 		(rev "0.1.0")
 		(company "PDX Hackerspace")
 		(comment 1 "John Romkey")
+		(comment 2 "License: CERN-OHL-S License: CERN-OHL-S https://ohwr.org/cern_ohl_s_v2.pdf")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x05"
@@ -2421,7 +2422,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 16.51 109.22 0)
 			(effects
 				(font
@@ -2852,10 +2853,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "70d1cead-4fb0-42b6-901a-9b98c762c165")
 		(property "Reference" "U1"
-			(at 53.34 73.66 0)
+			(at 47.244 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2863,7 +2863,7 @@
 			)
 		)
 		(property "Value" "STCC4"
-			(at 53.34 76.2 0)
+			(at 55.118 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
